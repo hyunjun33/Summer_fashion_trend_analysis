@@ -17,6 +17,8 @@
   - 국내 4개의 패션쇼핑몰 선정 후 베스트 판매 아이템 데이터를 수집
 
 ### 3. 1과 2를 비교하여 트렌드와 구매 패턴이 일치하는 지 검증
+<br>
+
 
 ## 수집한 데이터 설명
 ### 1. 네이버 뉴스 기사 데이터
@@ -34,4 +36,5 @@
   - 용도 : 온라인 쇼핑몰을 이용하는 소비자들의 구매 품목 패턴 파악
   - 방법 : 4개 쇼핑몰의 아이템 판매 데이터 웹 크롤링
 
-## [분석 결과 리포트](https://github.com/hyunjun33/Summer_fashion_trend_analysis/blob/main/fashion_trend_presentation.pdf)
+## 분석 결과
+- [분석 결과 리포트](https://github.com/hyunjun33/Summer_fashion_trend_analysis/blob/main/fashion_trend_presentation.pdf)
